@@ -1,2 +1,3 @@
 # Integrantes
 - Líder del proyecto: pendiente
+- mandobito3-netizen: write
